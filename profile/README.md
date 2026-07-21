@@ -2,4 +2,6 @@
 
 Welcome to the Bio Inspired Vision Lab at Northwestern! We bring together tools from computational photography, animal vision, and information processing to uncover engineering principles for better imaging systems.
 
-<img src="BIV.png" width="60%" alt="Logo">
+<div align="center">
+  <img src="BIV.png" alt="Logo" width="60%">
+</div>
